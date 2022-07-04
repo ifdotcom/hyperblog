@@ -22,4 +22,4 @@ Confirmando que al utilizar git reset HEAD archivo queda conseguimiento, en cons
 
 
  texto prueba
- texto despues de git rm
+ texto 
