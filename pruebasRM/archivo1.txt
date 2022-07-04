@@ -7,3 +7,10 @@ Texto despues del comando
 AGregando mas texto, sigue en estado U
 solo el archivo2 tiene seguimiento y lo muestra con git status como modified
 al darle git add lo muestra como un nuevo archivo no como si tuviera seguimiento o modified
+
+
+Confirmando que al utilizar git -rm --cached elimina todo el archivo y al agregarlo de nuevo lo marca como new no como modified
+ como lo mostraba el archivo 2 
+----------------------------------------------------------------------
+despues de ejecuar git reset HEAD este documento sigue en M
+escucha los cambios y dentreo de la consola muestra modified
