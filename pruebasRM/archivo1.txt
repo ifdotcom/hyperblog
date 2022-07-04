@@ -11,7 +11,7 @@ al darle git add lo muestra como un nuevo archivo no como si tuviera seguimiento
 
 Confirmando que al utilizar git -rm --cached elimina todo el archivo y al agregarlo de nuevo lo marca como new no como modified
  como lo mostraba el archivo 2 
- 
+
 ----------------------------------------------------------------------
 despues de ejecuar git reset HEAD este documento sigue en M
 escucha los cambios y dentreo de la consola muestra modified
@@ -19,3 +19,7 @@ escucha los cambios y dentreo de la consola muestra modified
 Confirmando que al utilizar git reset HEAD archivo queda conseguimiento, en consola lo sigue marcando como modifed  y al agregarlo
  de nuevo lo sigue marcando como modified
  los cambios nuevos se aplicaran hasta que se de un add y un commit
+
+
+ texto prueba
+ texto despues de git rm
