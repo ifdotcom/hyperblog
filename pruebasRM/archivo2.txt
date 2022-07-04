@@ -1,0 +1,10 @@
+probando git reset HEAD
+
+viendo el comportamiento de este comando dentro de vscode
+
+Texto despues del comando git rm
+agregando mas texto, queda en estado M
+solo este doc tiene siguimiento muestra modified en consola
+
+texto prueba
+texto despues de git rm
