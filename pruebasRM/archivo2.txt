@@ -1,1 +1,4 @@
 probando git reset HEAD
+
+viendo el comportamiento de este comando dentro de vscode
+
