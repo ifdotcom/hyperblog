@@ -34,4 +34,4 @@ Confirmando que al utilizar git reset HEAD archivo queda conseguimiento, en cons
  ----------------------------------------------------------
  git reset HEAD lo saca del staging area y lo marca commo modified
  si damos un add . lo duevuelve a staging area 
- caso contrario, damos un commit los cambios no se mandaran hasta el siguiente commit
+ caso contrario, damos un commit los cambios no se mandaran hasta el siguiente commit y el archivo continuna como modified
