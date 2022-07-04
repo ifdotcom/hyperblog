@@ -8,7 +8,10 @@ viendo el comportamiento de este comando dentro de vscode
  ----------------------------------------------------------
  git rm --cached lo saca del staging area y lo marca commo delete y lo deja sin seguimiento
  si damos un add . lo duevuelve a modified 
- caso contrario, damos un commit lo elimina por completo
+ caso contrario, damos un commit lo elimina por completo asta que lo volvemos a agregar con git add y vuelva a darle seguimiento
+
+
+
 
  ----------------------------------------------------------
  git reset HEAD lo saca del staging area y lo marca commo modified
