@@ -23,3 +23,11 @@ Confirmando que al utilizar git reset HEAD archivo queda conseguimiento, en cons
 
  texto prueba
  texto 
+
+
+
+
+ ----------------------------------------------------------
+ git rm --cached lo saca del staging area y lo marca commo delete
+ si damos un add . lo duevuelve a modified 
+ caso contrario, damos un commit lo elimina por completo
