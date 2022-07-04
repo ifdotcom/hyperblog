@@ -1,0 +1,9 @@
+probando git rm --cached
+
+viendo el comportamiento de este comando dentro de vscode
+
+
+Texto despues del comando
+AGregando mas texto, sigue en estado U
+solo el archivo2 tiene seguimiento y lo muestra con git status como modified
+al darle git add lo muestra como un nuevo archivo no como si tuviera seguimiento o modified
