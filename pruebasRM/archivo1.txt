@@ -10,7 +10,6 @@ viendo el comportamiento de este comando dentro de vscode
  si damos un add . lo duevuelve a modified 
  caso contrario, damos un commit lo elimina por completo
 
-
  ----------------------------------------------------------
  git reset HEAD lo saca del staging area y lo marca commo modified
  si damos un add . lo duevuelve a staging area 
