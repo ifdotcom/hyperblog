@@ -2,12 +2,14 @@ probando git reset HEAD
 
 viendo el comportamiento de este comando dentro de vscode
 
-Texto despues del comando git rm
-agregando mas texto, queda en estado M
-solo este doc tiene siguimiento muestra modified en consola
 
-texto prueba
-tetxo
-texto prueba
-texto
-texto prueba
+----------------------------------------------------------
+ git rm --cached lo saca del staging area y lo marca commo delete y lo deja sin seguimiento
+ si damos un add . lo duevuelve a modified 
+ caso contrario, damos un commit lo elimina por completo
+
+
+ ----------------------------------------------------------
+ git reset HEAD lo saca del staging area y lo marca commo modified
+ si damos un add . lo duevuelve a staging area 
+ caso contrario, damos un commit los cambios no se mandaran hasta el siguiente commit y el archivo continuna como modified
