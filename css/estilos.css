@@ -9,9 +9,15 @@ body
 }
 
 
- h1,p
+ #container
 {
-    text-align:center;
+    width: 70%;
+    padding: 1em;
+    text-align:left;
+    border:1px solid #000;
+    margin: 0 auto;
+}
+
+#container h1{
     font-size: 20px;
-    color: deeppink;
 }
