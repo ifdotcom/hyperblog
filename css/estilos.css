@@ -47,3 +47,10 @@ background: #1e1f24;
     background: white;
     padding: 1em;
 }
+
+#footer{
+    text-align: center;
+    background-color: #777;
+    color:white;
+    padding: 1em;
+}
